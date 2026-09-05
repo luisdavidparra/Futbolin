@@ -22,13 +22,13 @@ The main goal behind the project was to create an arcade-style game that feels g
 ## 📸 Screenshots
 
 ### Gameplay
-<img src="screenshots/Icon.jpg" width="500">
+<img src="screenshots/Gameplay.png" width="500">
 
 ### Main Menu
-<img src="screenshots/Icon.jpg" width="500">
+<img src="screenshots/MainMenu.png" width="500">
 
 ### Controllers
-<img src="screenshots/Icon.jpg" width="500">
+<img src="screenshots/Controllers.png" width="500">
 
 ---
 
