@@ -1,5 +1,5 @@
 # Futbolin
-![Icon](screenshots/Icon.png)
+<img src="screenshots/Icon.jpg" width="300">
 
 Local multiplayer foosball playable with controllers or keyboard.  
 This is a fast, simple, and fun digital version of the classic foosball table.
@@ -21,14 +21,14 @@ The main goal behind the project was to create an arcade-style game that feels g
 
 ## 📸 Screenshots
 
-### Main Menu
-![Menu Screenshot](screenshots/MainMenu.png)
-
 ### Gameplay
-![Gameplay Screenshot](screenshots/Gameplay.png)
+<img src="screenshots/Icon.jpg" width="500">
+
+### Main Menu
+<img src="screenshots/Icon.jpg" width="500">
 
 ### Controllers
-![Gameplay Screenshot](screenshots/Controllers.png)
+<img src="screenshots/Icon.jpg" width="500">
 
 ---
 
