@@ -41,7 +41,7 @@ You can play the game directly in your browser on itch.io
 ---
 
 ## 📦 Download
-Download the playable build from the **Releases** section.
+👉 [Download Futbolin v1.0](https://github.com/TUUSUARIO/Futbolin/releases/tag/v1.0)
 
 ---
 
